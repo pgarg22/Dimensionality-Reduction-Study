@@ -1,7 +1,7 @@
 Advanced_machine_learning
 ==============================
 
-Mapping high dimensional data in latent spaces
+Evaluating Dimensionality Reduction methods performance on high dimensional datasets wwith varying sample size, signal strength, noise levels etc
 
 Project Organization
 ------------
